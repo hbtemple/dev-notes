@@ -26,4 +26,19 @@
 **Status:** Idea  
 **Notes:** ...  
 ## Hobby/Learning Ideas
-## Resources & Links
+### Biology-adjacent  
+**Demonstrates:** Citizen science data tooling, phylogenetic tree visualization, lab notebook/field journal apps,  BLAST/sequence analysis wrappers  
+**Stack:** TBD  
+**Status:** Idea  
+**Notes:** ...  
+### History-adjacent  
+**Demonstrates:** Historical GIS/mapping, Archival transcription tools, Prosopography databases  
+**Stack:** TBD  
+**Status:** Idea  
+**Notes:** ...  
+### Overlap  
+**Demonstrates:** Zooarchaeology/archaeobotany data tools, museum collection APIs  
+**Stack:** TBD  
+**Status:** Idea  
+**Notes:** ...  
+## Resources & Links  
